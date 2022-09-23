@@ -7,6 +7,7 @@ function App() {
         <p>
           You should meet my way more handsome and talented friend Tim
         </p>
+        <button>Button</button>
       </header>
     </div>
   );
